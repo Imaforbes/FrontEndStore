@@ -2,7 +2,7 @@
 
 Este proyecto es una maqueta frontend estática para una tienda en línea llamada "FrontEnd Store", especializada en la venta de camisetas con temáticas de tecnologías y desarrollo de software. El sitio está construido completamente con HTML5 y CSS3, con un enfoque en un diseño limpio, moderno y responsivo.
 
-![Vista Previa de FrontEnd Store]([URL_DE_UNA_CAPTURA_DE_PANTALLA_DEL_SITIO])
+![Vista Previa de FrontEnd Store]([https://github.com/Imaforbes/FrontEndStore/blob/main/Proy4.png?raw=true])
 
 _Sugerencia: Sube una captura de pantalla de la página principal a tu repositorio y reemplaza el enlace de arriba para mostrar tu trabajo visualmente._
 
